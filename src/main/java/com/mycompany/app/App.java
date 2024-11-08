@@ -15,7 +15,7 @@ public class App {
             System.out.println(i);
         }
     }
-
+/*comment*/
     public String getMessage() {
         return MESSAGE;
     }
