@@ -12,7 +12,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println(MESSAGE);
     }
-/*comment*/
+/*comment*//*comment*/
     public String getMessage() {
         return MESSAGE;
     }
